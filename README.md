@@ -1,4 +1,3 @@
-### keilaaquino
 ## Informações Importantes Referente ao Projeto
 
 O projeto foi criado para demonstrar por meio da ferramenta Selenium Webdriver a automação de uma compra de e-commerce da aplicação web: https://www.saucedemo.com.
